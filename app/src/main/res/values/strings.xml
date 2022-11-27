@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FeedUs</string>
+
+    <string name="navigation_drawer_open"> Open navigation drawer</string>
+    <string name="navigation_drawer_close"> Close navigation drawer</string>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Select your City</item>
+        <item>Khulna</item>
+        <item>Dhaka</item>
+        <item>Rangpur</item>
+        <item>Borishal</item>
+        <item>Chitaggog</item>
+        <item>Sylet</item>
+        <item>Gazipur</item>
+    </string-array>
+
+    <!--donation time-->
+    <string-array name="donationtime">
+        <item>Select time</item>
+        <item>Breakfast(before-9.00AM)</item>
+        <item>Lunch(before-2.00PM)</item>
+        <item>Dinner(before-12.00AM)</item>
+    </string-array>
+
+</resources>
